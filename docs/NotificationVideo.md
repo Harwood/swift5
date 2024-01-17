@@ -1,0 +1,13 @@
+# NotificationVideo
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **Int** |  | [optional] 
+**uuid** | [**Uuid**](Uuid.md) |  | [optional] 
+**name** | [**Name**](Name.md) |  | [optional] 
+**channel** | [**ActorInfo**](ActorInfo.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
